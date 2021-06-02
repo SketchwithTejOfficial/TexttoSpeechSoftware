@@ -1,5 +1,5 @@
 # TexttoSpeechSoftware
-Guys now can make voice over without keeping our voice with artificial generated voice for free with python.
+Guys now you can make voice over for youtube videos without keeping your voice with artificial generated voice for free with python.
 
 To make that first install pyttsx3 by typing below command in terminal
 
